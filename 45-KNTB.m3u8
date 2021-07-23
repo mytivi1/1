@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:600
+#EXT-X-MEDIA-SEQUENCE:2
+#EXTINF:600.000000,
+https://ia601503.us.archive.org/34/items/z45_20210723/45-KNTB2.ts
+#EXTINF:600.000000,
+https://ia601503.us.archive.org/34/items/z45_20210723/45-KNTB3.ts
+#EXTINF:600.000000,
+https://ia601503.us.archive.org/34/items/z45_20210723/45-KNTB4.ts
+#EXTINF:600.000000,
+https://ia601503.us.archive.org/34/items/z45_20210723/45-KNTB5.ts
+#EXTINF:273.320000,
+https://ia601503.us.archive.org/34/items/z45_20210723/45-KNTB6.ts
+#EXT-X-ENDLIST
